@@ -1,2 +1,1 @@
-# dajiangdahe
 # changjiang-base-common
